@@ -1,3 +1,2 @@
 # Python
-ProbandoCodigos
-aqui ve las pruebas del curso perro
+esta es una copia
